@@ -1,0 +1,4 @@
+#!/usr/bin/env sh
+
+SPACEBAR_HEIGHT=26
+yabai -m config external_bar all:$SPACEBAR_HEIGHT:0
